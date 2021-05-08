@@ -1,3 +1,4 @@
+![Spinning Globe](https://github.com/gchartier/gchartier/blob/master/earth.gif)
 ### Hello!
 My name is Gabriel Chartier and I am a creative and driven web developer with 3 years of professional experience in tech looking for my next web development opportunity.
 
